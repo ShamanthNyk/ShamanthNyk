@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamanth</h1>
-<h3 align="center">A passionate 3rd year Undergrad pursuing B.tech in Computer and Communication at Manipal Institute of Technology</h3>
+<h3 align="center">A passionate 3rd year Undergraduate pursuing B.tech in Computer and Communications at Manipal Institute of Technology</h3>
 
 - 🔭 I’m currently working on **Explainable AI and Graph Neural Networks**
 
@@ -14,6 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamanthnyk&show_icons=true" alt="shamanthnyk" /></p>
 
 <p align="center">
-<a href="https://codepen.io/shamanth nayak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="shamanth nayak" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="s" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/shamanth-r-nayak-k-6b482a169" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shamanth-r-nayak-k-6b482a169" height="30" width="30" /></a>
 </p>
