@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shamanth</h1>
-<h5 align="center">A passionate Third Year Undergraduate pursuing B.tech in Computer and Communications at Manipal Institute of 
-  Technology</h3>
+<h1 align="center">Hello there ! 👋, I'm Shamanth</h1>
+A passionate Third Year Undergraduate pursuing B.tech in Computer and Communications at Manipal Institute of Technology.    My interests
+lie in the field of Explainable AI and Natural Language Processing.
+ 
 
 - 🔭 I’m currently working on **Explainable AI and Graph Neural Networks**
 
