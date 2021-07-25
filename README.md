@@ -3,7 +3,7 @@ A passionate Third Year Undergraduate pursuing B.tech in Computer and Communicat
 lie in the field of Explainable AI and Natural Language Processing.
  
 
-- 🔭 I’m currently working on **Text Summarization and Query Generation.**
+- 🔭 I’m currently working on **Text Summarization and Query Generation @ University of Lethbridge,Canada.**
 
 - 📫 How to reach me **shamanthrnayak@gmail.com**
 
