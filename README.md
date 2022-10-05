@@ -1,5 +1,5 @@
 <h1 align="center">Hello there ! 👋, I'm Shamanth</h1>
-A passionate senior year undergraduate pursuing B.tech in Computer and Communications at Manipal Institute of Technology.    My interests
+A passionate graduate pursuing a thesis based master's in Computer Science at Concordia University, Montreal. My interests
 lie in the field of Explainable AI and Natural Language Processing.
  
 
