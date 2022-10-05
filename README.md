@@ -3,7 +3,7 @@ A passionate graduate pursuing a thesis based master's in Computer Science at Co
 lie in the field of Explainable AI and Natural Language Processing.
  
 
-- 🔭 I’m currently working on **Text Summarization and Query Generation @University of Lethbridge,Canada.**
+- 🔭 My latest major work involved working on **Text Summarization and Query Generation @University of Lethbridge,Canada.**
 
 - 📫 How to reach me **shamanthrnayak@gmail.com**
 
